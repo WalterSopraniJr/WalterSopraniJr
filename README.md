@@ -2,7 +2,7 @@
 Welcome to my profile!
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & Python
 - 👯 I’m looking to collaborate on Programming Projects
 - 🤔 I’m looking for help to practice my english
 - 💬 Ask me about inline skating, robots or anything you like
@@ -31,10 +31,9 @@ Welcome to my profile!
   <div style="display: inline_block"><br>
   <img align="center" alt="WSJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="WSJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="WSJ-Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="WSJ-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="WSJ-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+  <img align="center" alt="WSJ-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
 
 </div>
