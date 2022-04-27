@@ -65,4 +65,8 @@ Aqui você pode acompanhar minha evolução, pois alimento constantemente com os
 
  
 </div>
-    
+
+  
+   <div align='center'>
+<a height="150em" href="http://www.github.com/WalterSopraniJr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WalterSopraniJr&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
