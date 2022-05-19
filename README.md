@@ -26,11 +26,6 @@ Aqui você pode acompanhar minha evolução, pois alimento constantemente com os
   <img align="center" alt="WSJ-mysql" height="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="WSJ-bi" height="30"  src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />  
     
-  <img align="center" alt="WSJ-npm" height="30"  src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
-
-  <img align="center" alt="WSJ-evernote" height="30" src="https://img.shields.io/badge/evernote-00A82D?style=for-the-badge&logo=evernote&logoColor=white" />     
-  <img align="center" alt="WSJ-trello" height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    
 </div>
   
    
